@@ -6,13 +6,13 @@
 
 ## 前端效果
 
-![image-20210726003358946](C:\Users\lan\AppData\Roaming\Typora\typora-user-images\image-20210726003358946.png)
+![image-20210726003358946](https://github.com/timilan123/Web-StudentManagement1/tree/main/pic/image-20210726003358946.png)
 
 ## 后台显示
 
 
 
-![image-20210726003412836](C:\Users\lan\AppData\Roaming\Typora\typora-user-images\image-20210726003412836.png)
+![image-20210726003412836](https://github.com/timilan123/Web-StudentManagement1/tree/main/pic/image-20210726003412836.png)
 
 # 前端代码
 
