@@ -1,6 +1,6 @@
 # 项目结构
 
-![image-20210726003223529](C:\Users\lan\AppData\Roaming\Typora\typora-user-images\image-20210726003223529.png)
+![image-20210726003223529](https://github.com/timilan123/Web-StudentManagement1/tree/main/pic/image-20210726003223529.png)
 
 # 效果展示
 
